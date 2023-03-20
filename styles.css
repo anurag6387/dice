@@ -1,0 +1,33 @@
+body{
+    background: #C9EEFF;
+    padding: 10px;
+}
+
+center{
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 4rem;
+    color: blue;
+    text-decoration: underline ;
+    text-shadow: 2px 2px 5px red;
+}
+.player_name{
+    text-align: center;
+    font-size: 2em ;
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+    color:#865DFF;
+    text-shadow: 1px 1px 3px #c70f96;
+}
+.main{
+display: flex;
+justify-content:space-evenly;
+margin-top: 40px;
+}
+.result{
+    font-size: 5rem ;
+    text-align: center;
+    padding-top: 30px;
+    color: #c70f96;
+}
+img{
+    height: 150px;
+}
